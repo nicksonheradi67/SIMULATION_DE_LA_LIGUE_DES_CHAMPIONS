@@ -1,0 +1,226 @@
+[
+    {
+        "nom": "arsenal",
+        "force": 70,
+        "points": 0,
+        "buts_marques": 0,
+        "buts_encaisses": 0
+    },
+    {
+        "nom": "aston vila",
+        "force": 94,
+        "points": 0,
+        "buts_marques": 0,
+        "buts_encaisses": 0
+    },
+    {
+        "nom": "atalanta",
+        "force": 63,
+        "points": 0,
+        "buts_marques": 0,
+        "buts_encaisses": 0
+    },
+    {
+        "nom": "atletico de madrid",
+        "force": 66,
+        "points": 0,
+        "buts_marques": 0,
+        "buts_encaisses": 0
+    },
+    {
+        "nom": "barcelona",
+        "force": 58,
+        "points": 0,
+        "buts_marques": 0,
+        "buts_encaisses": 0
+    },
+    {
+        "nom": "bayer leverkusen",
+        "force": 90,
+        "points": 0,
+        "buts_marques": 0,
+        "buts_encaisses": 0
+    },
+    {
+        "nom": "benefica",
+        "force": 96,
+        "points": 0,
+        "buts_marques": 0,
+        "buts_encaisses": 0
+    },
+    {
+        "nom": "bolonia",
+        "force": 94,
+        "points": 0,
+        "buts_marques": 0,
+        "buts_encaisses": 0
+    },
+    {
+        "nom": "borussia dordmund",
+        "force": 88,
+        "points": 0,
+        "buts_marques": 0,
+        "buts_encaisses": 0
+    },
+    {
+        "nom": "brest",
+        "force": 70,
+        "points": 0,
+        "buts_marques": 0,
+        "buts_encaisses": 0
+    },
+    {
+        "nom": "celtic",
+        "force": 63,
+        "points": 0,
+        "buts_marques": 0,
+        "buts_encaisses": 0
+    },
+    {
+        "nom": "brujas",
+        "force": 99,
+        "points": 0,
+        "buts_marques": 0,
+        "buts_encaisses": 0
+    },
+    {
+        "nom": "cluc brugge",
+        "force": 95,
+        "points": 0,
+        "buts_marques": 0,
+        "buts_encaisses": 0
+    },
+    {
+        "nom": "estrella roja de belgado",
+        "force": 70,
+        "points": 0,
+        "buts_marques": 0,
+        "buts_encaisses": 0
+    },
+    {
+        "nom": "ddinamo zagreb",
+        "force": 79,
+        "points": 0,
+        "buts_marques": 0,
+        "buts_encaisses": 0
+    },
+    {
+        "nom": "bayer munich",
+        "force": 98,
+        "points": 0,
+        "buts_marques": 0,
+        "buts_encaisses": 0
+    },
+    {
+        "nom": "salzburgo",
+        "force": 84,
+        "points": 0,
+        "buts_marques": 0,
+        "buts_encaisses": 0
+    },
+    {
+        "nom": "feyenoord",
+        "force": 62,
+        "points": 0,
+        "buts_marques": 0,
+        "buts_encaisses": 0
+    },
+    {
+        "nom": "girona",
+        "force": 79,
+        "points": 0,
+        "buts_marques": 0,
+        "buts_encaisses": 0
+    },
+    {
+        "nom": "inter milan",
+        "force": 94,
+        "points": 0,
+        "buts_marques": 0,
+        "buts_encaisses": 0
+    },
+    {
+        "nom": "juventus",
+        "force": 100,
+        "points": 0,
+        "buts_marques": 0,
+        "buts_encaisses": 0
+    },
+    {
+        "nom": "lille",
+        "force": 63,
+        "points": 0,
+        "buts_marques": 0,
+        "buts_encaisses": 0
+    },
+    {
+        "nom": "liverpool",
+        "force": 86,
+        "points": 0,
+        "buts_marques": 0,
+        "buts_encaisses": 0
+    },
+    {
+        "nom": "manchester city",
+        "force": 51,
+        "points": 0,
+        "buts_marques": 0,
+        "buts_encaisses": 0
+    },
+    {
+        "nom": "millan",
+        "force": 60,
+        "points": 0,
+        "buts_marques": 0,
+        "buts_encaisses": 0
+    },
+    {
+        "nom": "monaco",
+        "force": 76,
+        "points": 0,
+        "buts_marques": 0,
+        "buts_encaisses": 0
+    },
+    {
+        "nom": "psv eindhoven",
+        "force": 79,
+        "points": 0,
+        "buts_marques": 0,
+        "buts_encaisses": 0
+    },
+    {
+        "nom": "paris saint germain",
+        "force": 63,
+        "points": 0,
+        "buts_marques": 0,
+        "buts_encaisses": 0
+    },
+    {
+        "nom": "leipzing",
+        "force": 65,
+        "points": 0,
+        "buts_marques": 0,
+        "buts_encaisses": 0
+    },
+    {
+        "nom": "real de madrid",
+        "force": 90,
+        "points": 0,
+        "buts_marques": 0,
+        "buts_encaisses": 0
+    },
+    {
+        "nom": "sturm graz",
+        "force": 55,
+        "points": 0,
+        "buts_marques": 0,
+        "buts_encaisses": 0
+    },
+    {
+        "nom": "slovan bratislave",
+        "force": 51,
+        "points": 0,
+        "buts_marques": 0,
+        "buts_encaisses": 0
+    }
+]
