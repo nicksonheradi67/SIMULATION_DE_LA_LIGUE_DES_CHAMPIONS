@@ -1,0 +1,114 @@
+[
+    {
+        "nom": "feyenoord",
+        "force": 62,
+        "points": 7,
+        "buts_marques": 8,
+        "buts_encaisses": 6
+    },
+    {
+        "nom": "brest",
+        "force": 70,
+        "points": 5,
+        "buts_marques": 6,
+        "buts_encaisses": 3
+    },
+    {
+        "nom": "salzburgo",
+        "force": 84,
+        "points": 7,
+        "buts_marques": 5,
+        "buts_encaisses": 3
+    },
+    {
+        "nom": "leipzing",
+        "force": 65,
+        "points": 4,
+        "buts_marques": 8,
+        "buts_encaisses": 7
+    },
+    {
+        "nom": "liverpool",
+        "force": 86,
+        "points": 9,
+        "buts_marques": 8,
+        "buts_encaisses": 0
+    },
+    {
+        "nom": "millan",
+        "force": 60,
+        "points": 6,
+        "buts_marques": 3,
+        "buts_encaisses": 5
+    },
+    {
+        "nom": "benefica",
+        "force": 96,
+        "points": 9,
+        "buts_marques": 8,
+        "buts_encaisses": 3
+    },
+    {
+        "nom": "atletico de madrid",
+        "force": 66,
+        "points": 6,
+        "buts_marques": 6,
+        "buts_encaisses": 3
+    },
+    {
+        "nom": "slovan bratislave",
+        "force": 51,
+        "points": 7,
+        "buts_marques": 3,
+        "buts_encaisses": 1
+    },
+    {
+        "nom": "monaco",
+        "force": 76,
+        "points": 4,
+        "buts_marques": 3,
+        "buts_encaisses": 4
+    },
+    {
+        "nom": "cluc brugge",
+        "force": 95,
+        "points": 9,
+        "buts_marques": 9,
+        "buts_encaisses": 2
+    },
+    {
+        "nom": "barcelona",
+        "force": 58,
+        "points": 6,
+        "buts_marques": 5,
+        "buts_encaisses": 4
+    },
+    {
+        "nom": "real de madrid",
+        "force": 90,
+        "points": 6,
+        "buts_marques": 8,
+        "buts_encaisses": 4
+    },
+    {
+        "nom": "bayer leverkusen",
+        "force": 90,
+        "points": 6,
+        "buts_marques": 8,
+        "buts_encaisses": 5
+    },
+    {
+        "nom": "brujas",
+        "force": 99,
+        "points": 6,
+        "buts_marques": 10,
+        "buts_encaisses": 4
+    },
+    {
+        "nom": "inter milan",
+        "force": 94,
+        "points": 6,
+        "buts_marques": 8,
+        "buts_encaisses": 4
+    }
+]
